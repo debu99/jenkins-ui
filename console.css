@@ -1,0 +1,17 @@
+.console-output {
+    padding: 1em;
+    background-color: black;
+    color: white;
+	line-height: 19px;
+	font-family: verdana;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.console-output a:link {
+    color: #b088ff;
+}
+
+.console-output a:visited {
+    color: #8888ff;
+}
